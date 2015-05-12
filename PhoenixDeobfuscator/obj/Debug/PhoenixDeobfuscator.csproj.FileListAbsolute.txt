@@ -1,0 +1,12 @@
+C:\Users\samjam53\Documents\GitHub\PhoenixDeobfuscator\PhoenixDeobfuscator\bin\Debug\PhoenixDeobfuscator.exe
+C:\Users\samjam53\Documents\GitHub\PhoenixDeobfuscator\PhoenixDeobfuscator\bin\Debug\PhoenixDeobfuscator.pdb
+C:\Users\samjam53\Documents\GitHub\PhoenixDeobfuscator\PhoenixDeobfuscator\bin\Debug\dnlib.dll
+C:\Users\samjam53\Documents\GitHub\PhoenixDeobfuscator\PhoenixDeobfuscator\bin\Debug\dnlib.pdb
+C:\Users\samjam53\Documents\GitHub\PhoenixDeobfuscator\PhoenixDeobfuscator\bin\Debug\dnlib.xml
+C:\Users\samjam53\Documents\GitHub\PhoenixDeobfuscator\PhoenixDeobfuscator\obj\Debug\PhoenixDeobfuscator.csprojResolveAssemblyReference.cache
+C:\Users\samjam53\Documents\GitHub\PhoenixDeobfuscator\PhoenixDeobfuscator\obj\Debug\PhoenixDeobfuscator.Form1.resources
+C:\Users\samjam53\Documents\GitHub\PhoenixDeobfuscator\PhoenixDeobfuscator\obj\Debug\PhoenixDeobfuscator.Properties.Resources.resources
+C:\Users\samjam53\Documents\GitHub\PhoenixDeobfuscator\PhoenixDeobfuscator\obj\Debug\PhoenixDeobfuscator.csproj.GenerateResource.Cache
+C:\Users\samjam53\Documents\GitHub\PhoenixDeobfuscator\PhoenixDeobfuscator\obj\Debug\PhoenixDeobfuscator.exe
+C:\Users\samjam53\Documents\GitHub\PhoenixDeobfuscator\PhoenixDeobfuscator\obj\Debug\PhoenixDeobfuscator.pdb
+C:\Users\samjam53\Documents\GitHub\PhoenixDeobfuscator\PhoenixDeobfuscator\bin\Debug\PhoenixDeobfuscator.exe.config

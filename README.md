@@ -1,7 +1,7 @@
 PhoenixDeobfuscator
 ===================
 
-PhoenixDeobfuscator is an open-source deobfuscator for [**Yano Obfuscator**][1]. It uses [**Dnlib**][2] written by 0xd4d for the assembly edition.
+PhoenixDeobfuscator is an open-source deobfuscator for [**Phoenix Obfuscator**][1]. It uses [**Dnlib**][2] written by 0xd4d for the assembly edition.
 
 ----------
 
@@ -30,7 +30,7 @@ PhoenixDeobfuscator supports a few features :
 
 
 
-  [1]: http://ntoolbox.com/
+  [1]: http://www.ntcore.com/phoenix.php
   [2]: https://github.com/0xd4d/dnlib
   [3]: https://sites.google.com/site/simpledotnet/simple-assembly-explorer
 

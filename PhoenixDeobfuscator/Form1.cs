@@ -139,7 +139,7 @@ namespace PhoenixDeobfuscator
 
         #region Method
 
-        private void FindStringDecrypterMethods(ModuleDefMD module)
+         private void FindStringDecrypterMethods(ModuleDefMD module)
         {
             foreach (var type in module.Types)
             {
@@ -150,14 +150,13 @@ namespace PhoenixDeobfuscator
                     if (method.Body.HasInstructions)
                     {
                         var instrs = method.Body.Instructions;
-                        if (instrs.Count > 50)
+                        if (instrs.Count > 45)
                         {
                             for (int i = 0; i < instrs.Count - 3; i++)
                             {
                                 if (instrs[i].OpCode.Code == Code.Ldarg_0 && instrs[1].OpCode.Code == Code.Callvirt &&
                                     instrs[2].OpCode.Code == Code.Stloc_0 && instrs[3].OpCode.Code == Code.Ldloc_0 &&
-                                    instrs[24].OpCode.Code == Code.Xor && instrs[31].OpCode.Code == Code.Shl &&
-                                    instrs[46].OpCode.Code == Code.Ret)
+                                    instrs[24].OpCode.Code == Code.Xor && instrs[31].OpCode.Code == Code.Shl)
                                 {
                                     Methoddecryption = method;
                                     Typedecryption = type;
